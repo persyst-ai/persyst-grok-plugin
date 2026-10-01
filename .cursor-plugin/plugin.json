@@ -1,0 +1,14 @@
+{
+  "name": "persyst",
+  "version": "0.2.0",
+  "description": "Give every team and client exactly the access they need: company-wide permissions, one connector across all your clients' tools, smart search across documents and tasks, and access to your code.",
+  "author": {
+    "name": "Persyst",
+    "email": "contact@persyst.ai"
+  },
+  "homepage": "https://www.persyst.ai",
+  "repository": "https://github.com/persyst-ai/persyst-grok-plugin",
+  "license": "MIT",
+  "keywords": ["persyst", "mcp", "connectors"],
+  "logo": "assets/logo.png"
+}
